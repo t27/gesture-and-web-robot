@@ -1,0 +1,1 @@
+A screen capture of the web control. This gives a clearer picture of the tect on the console and the delays and time taken for the commands.

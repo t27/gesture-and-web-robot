@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TiltBT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_helpscreen">Helpscreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_orientation_title">Set Orientation</string>
+    <string name="pref_orientation_summary">Set the orientation</string>
+    <string name="pref_uuid_title">Change UUID</string>
+    <string name="pref_uuid_summary">Use non-standard serial UUID</string>
+    <string name="pref_uuid_update">Update UUID</string>
+    <string name="pref_update_setting">Update Settings</string>
+    <string name="pref_text_buffer_title">Input Buffer Size (In Chars)</string>
+    <string name="pref_text_buffer_summary">Change the receive text buffer size</string>
+    <string name="pref_offset_title">Default Offset Value</string>
+    <string name="pref_offset_summary">Initial angle for stop. Angle made by the default holding position with the Vertical</string>
+    <string name="pref_FB_title">FrontBack Limit</string>
+    <string name="pref_FB_summary">Tilt angle limit for changing from Stop to Front and Stop to Back and Vice versa. All angle wrt Offset</string>
+    <string name="pref_RL_title">RightLeft Limit</string>
+    <string name="pref_RL_summary">Tilt angle limit for changing to Left and to Right and Vice versa</string>
+
+</resources>
